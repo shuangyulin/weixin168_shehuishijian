@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#669999",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "活动报名详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

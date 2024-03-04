@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#669999",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "活动宣传添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
